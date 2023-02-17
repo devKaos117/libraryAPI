@@ -3,7 +3,10 @@
 ## Índice
 
 - [Sobre](#about)
-- [Detalhes técnicos](#technical_analysis)
+- [Detalhes técnicos](#technicalAnalysis)
+    - [Ambiente de desenvolvimento usado](#technicalAnalysis_developmentEnvironment)
+    - [Tecnologias usadas](#technicalAnalysis_techs)
+    - [Diagramas](#technicalAnalysis_diagrams)
 - [Usando](#using)
 
 ---
@@ -14,10 +17,17 @@
 
 ## Detalhes técnicos <a name = "technical_analysis"></a>
 
-### Ambiente de desenvolvimento usado
+### Ambiente de desenvolvimento usado <a name = "technicalAnalysis_developmentEnvironment"></a>
+-  Windows 11
+-  VS Code
+- Firefox Developer Edition
+### Tecnologias usadas <a name = "technicalAnalysis_techs"></a>
 
-### Tecnologias usadas
+- NodeJS ![v18.14.1](https://img.shields.io/badge/version-18.14.1-informational)
+- npm ![v9.3.1](https://img.shields.io/badge/version-9.3.1-informational)
+- MySQL ![v](https://img.shields.io/badge/version-0-informational)
 
----
+### Diagramas <a name = "technicalAnalysis_diagrams"></a>
+- [Diagrama ER do database](https://github.com/devKaos117/libraryAPI/blob/main/database/DB_ERD.pdf)
 
 ## Usando <a name = "using"></a>
