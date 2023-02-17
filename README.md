@@ -25,7 +25,7 @@
 
 - NodeJS ![v18.14.1](https://img.shields.io/badge/version-18.14.1-informational)
 - npm ![v9.3.1](https://img.shields.io/badge/version-9.3.1-informational)
-- MySQL ![v](https://img.shields.io/badge/version-0-informational)
+- MySQL ![v8.0.32](https://img.shields.io/badge/version-8.0.32-informational)
 
 ### Diagramas <a name = "technicalAnalysis_diagrams"></a>
 - [Diagrama ER do database](https://github.com/devKaos117/libraryAPI/blob/main/database/DB_ERD.pdf)
